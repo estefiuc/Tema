@@ -1,0 +1,18 @@
+.container{
+  border:2px solid;
+  position: static:absolute;
+  left:20%;
+  margin: 5px;
+}
+nav{
+  border: 2px solid;
+  position: absolute;
+}
+section{
+  border: 2px solid;
+  display: block;
+  margin-left: 114px;
+}
+footer{
+position: static;
+}
